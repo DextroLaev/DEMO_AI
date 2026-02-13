@@ -1,6 +1,10 @@
 ## Steps to use the code 
 
   1.  Create a directory /data first.
+  2.  Run the following script to download the data.
+      - ```bash
+        python data.py
+        ```
 
 There is a ```config.py``` file which you can use to change the configurations.
 
