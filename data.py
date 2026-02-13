@@ -51,3 +51,6 @@ def get_dataloaders():
     )
 
     return trainloader, testloader
+
+if __name__ == '__main__':
+    _,_ = get_dataloaders()
